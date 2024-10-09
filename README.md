@@ -33,7 +33,7 @@ I'm a **Full-Stack Software Engineer** with over 6 years of experience, speciali
 
 ### GitHub Stats
 
-![Zakaria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kernel2&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+![Zakaria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kernel2&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide=contribs,prs)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kernel2&theme=dark)](https://git.io/streak-stats)
 
